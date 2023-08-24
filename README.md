@@ -1,11 +1,13 @@
 ## Hi there,
-<!--
-<img align="left" width="450" atl="jkworleys's Github Stats" src="http://github-readme-stats-2-sigma.vercel.app/api?username=jkworley&show_icons=true&hide_border=true" />
--->
-### I'm Justin, a full-stack developer, professional musicain, and teacher in higher education!
+
+## I'm Justin!
+
+### I'm a full-stack developer, professional musicain, and teacher in higher education!
+
+### About Me
 
 * I’m currently teaching in higher eductaion, and working to transition to a full-stack developer role. <br/>
-* I'm always working my weak-points Algorithmic Problem Solving! <br/>
+* I'm always working my weak-points with Algorithmic Problem Solving! <br/>
 * I’m looking to contribute in creativity-related tech spaces.<br/> 
 * I’m also seeking ways to give back through teaching and volunteering!<br/>
 
