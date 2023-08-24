@@ -1,8 +1,6 @@
 ## Hi there,
 
-## I'm Justin!
-
-### I'm a full-stack developer, professional musicain, and teacher in higher education!
+### I'm Justin, a full-stack developer, professional musicain, and teacher in higher education!
 
 ### About Me
 
